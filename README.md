@@ -13,11 +13,11 @@ Requirements:
 - Download datasets from National Lung Screening Trial(NLST) from The Cancer Imaging Archive(TCIA). https://www.cancerimagingarchive.net/collection/nlst/
 You will need to download the files separately and update file paths as needed in the initial sections of the notebook to replicate the results.
 File references for datasets:
-nlst_780_canc_idc_20210527.csv maps to dataframe df_canc
-nlst_780_ctab_idc_20210527.csv maps to dataframe df_ctab
-nlst_780_ctabc_idc_20210527.csv mpas to dataframe df_ctabc
-nlst_780_prsn_idc_20210527.csv maps to dataframe df_prsn
-nlst_780_screen_idc_20210527.csv maps to dataframe df_screen
+1) nlst_780_canc_idc_20210527.csv maps to dataframe df_canc
+2) nlst_780_ctab_idc_20210527.csv maps to dataframe df_ctab
+3) nlst_780_ctabc_idc_20210527.csv mpas to dataframe df_ctabc
+4) nlst_780_prsn_idc_20210527.csv maps to dataframe df_prsn
+5) nlst_780_screen_idc_20210527.csv maps to dataframe df_screen
 
 Setup:
 - Clone this repository
