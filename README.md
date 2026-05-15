@@ -9,7 +9,7 @@ The notebook experiments with a range of data visualisation techniques with a fo
 
 Requirements:
 - Install Python (free)
-- Install Analconda Navigator (free) in order to use Jupyter Notebooks
+- Install Anaconda Navigator (free) in order to use Jupyter Notebooks
 - Download datasets from National Lung Screening Trial(NLST) from The Cancer Imaging Archive(TCIA). https://www.cancerimagingarchive.net/collection/nlst/
 You will need to download the files separately and update file paths as needed in the initial sections of the notebook to replicate the results.
 File references for datasets:
